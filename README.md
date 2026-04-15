@@ -1,6 +1,12 @@
 # 🍃 NourishTrack — AI-Powered Campus Food Waste Intelligence
 
-A full-stack application for tracking, analyzing, and reducing food waste across college campuses. Built with **React**, **FastAPI**, and **PostgreSQL**.
+<img width="1919" height="923" alt="Screenshot 2026-04-14 200955" src="https://github.com/user-attachments/assets/ccdbc8b7-fae0-44e6-9dfd-72b3e298ef03" />
+
+
+## A full-stack application for tracking, analyzing, and reducing food waste across college campuses. Built with **React**, **FastAPI**, and **PostgreSQL**.
+
+<img width="1914" height="924" alt="Screenshot 2026-04-14 201028" src="https://github.com/user-attachments/assets/ec1c57ec-2bc2-43b9-a008-5b3bdd5242f4" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![React](https://img.shields.io/badge/React-18-61DAFB)
@@ -22,6 +28,11 @@ A full-stack application for tracking, analyzing, and reducing food waste across
    Recharts               AI Analytics Engine
    Axios                  JWT Authentication
 ```
+<img width="1919" height="922" alt="Screenshot 2026-04-14 201044" src="https://github.com/user-attachments/assets/666d1227-c27f-4813-bcc8-fa339ade21dd" />
+
+<img width="1919" height="923" alt="Screenshot 2026-04-14 201057" src="https://github.com/user-attachments/assets/6810731b-dd67-4cad-97a9-9824f68c13bf" />
+
+<img width="1914" height="917" alt="Screenshot 2026-04-14 201104" src="https://github.com/user-attachments/assets/a0ecae35-f4d2-484c-95cd-d7df2b9810d6" />
 
 ## 🚀 Features
 
